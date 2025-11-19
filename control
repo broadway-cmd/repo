@@ -1,0 +1,14 @@
+Package: vn.gsm.cardswitcher-app
+Version: 2.0-1
+Section: !GSMVN-Tools
+Maintainer: Cydia.vn <repo@cydia.vn>
+Depends: gsmicon, mobilesubstrate, preferenceloader (>= 2.0.2), libactivator (>= 1.5), firmware (>= 4.0), com.iky1e.libdisplay (>= 0.12)
+Architecture: iphoneos-arm
+Installed-Size: 158
+Description: smooth cards-based Multitasking UI & switcher
+Name: CardSwitcher
+Author: Kyle Howells
+Sponsor: Cydia.vn Blog's <http://cydia.vn/>
+Depiction: http://cydia.gsm.vn/t1974/
+Homepage: http://cydia.vn/
+Icon: file:///Library/PreferenceBundles/CardSwitcherSettings.bundle/CardSwitcher@2x.png
